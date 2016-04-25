@@ -1,9 +1,9 @@
-package br.fa7.exercicios.service;
+package br.fa7.trabalho.service;
 
-import br.fa7.exercicios.entity.Address;
-import br.fa7.exercicios.entity.Employee;
-import br.fa7.exercicios.resource.AddressRepository;
-import br.fa7.exercicios.resource.EmployeeRepository;
+import br.fa7.trabalho.entity.Address;
+import br.fa7.trabalho.entity.Employee;
+import br.fa7.trabalho.resource.AddressRepository;
+import br.fa7.trabalho.resource.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,9 +1,8 @@
-package br.fa7.exercicios.controller;
+package br.fa7.trabalho.controller;
 
-import br.fa7.exercicios.entity.Address;
-import br.fa7.exercicios.entity.Employee;
-import br.fa7.exercicios.service.EmployeeService;
-import org.apache.catalina.connector.Response;
+import br.fa7.trabalho.entity.Address;
+import br.fa7.trabalho.entity.Employee;
+import br.fa7.trabalho.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

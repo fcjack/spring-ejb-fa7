@@ -1,4 +1,4 @@
-package br.fa7.exercicios;
+package br.fa7.trabalho;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

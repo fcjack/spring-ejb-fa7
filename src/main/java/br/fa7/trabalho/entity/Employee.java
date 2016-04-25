@@ -1,4 +1,4 @@
-package br.fa7.exercicios.entity;
+package br.fa7.trabalho.entity;
 
 import javax.persistence.*;
 import java.util.List;

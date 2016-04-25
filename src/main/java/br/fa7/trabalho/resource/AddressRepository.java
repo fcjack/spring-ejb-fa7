@@ -1,6 +1,6 @@
-package br.fa7.exercicios.resource;
+package br.fa7.trabalho.resource;
 
-import br.fa7.exercicios.entity.Address;
+import br.fa7.trabalho.entity.Address;
 import org.springframework.data.repository.CrudRepository;
 
 /**

@@ -1,7 +1,7 @@
-package br.fa7.exercicios.service;
+package br.fa7.trabalho.service;
 
-import br.fa7.exercicios.entity.Address;
-import br.fa7.exercicios.entity.Employee;
+import br.fa7.trabalho.entity.Address;
+import br.fa7.trabalho.entity.Employee;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
