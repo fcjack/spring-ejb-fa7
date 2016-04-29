@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>br.fa7.exercicios</groupId>
-    <artifactId>cursoSpring</artifactId>
+    <groupId>org.fa7.spring.trabalho_fa7</groupId>
+    <artifactId>trabalhoSpring</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>

@@ -1,9 +1,9 @@
-package br.fa7.trabalho.service;
+package org.fa7.spring.trabalho_fa7.service;
 
-import br.fa7.trabalho.entity.Address;
-import br.fa7.trabalho.entity.Employee;
-import br.fa7.trabalho.resource.AddressRepository;
-import br.fa7.trabalho.resource.EmployeeRepository;
+import org.fa7.spring.trabalho_fa7.entity.Address;
+import org.fa7.spring.trabalho_fa7.entity.Employee;
+import org.fa7.spring.trabalho_fa7.resource.AddressRepository;
+import org.fa7.spring.trabalho_fa7.resource.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

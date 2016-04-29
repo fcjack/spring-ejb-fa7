@@ -1,4 +1,4 @@
-package br.fa7.trabalho.entity;
+package org.fa7.spring.trabalho_fa7.entity;
 
 import javax.persistence.*;
 import java.util.List;

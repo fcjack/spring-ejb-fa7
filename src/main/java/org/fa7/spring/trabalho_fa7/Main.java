@@ -1,4 +1,4 @@
-package br.fa7.trabalho;
+package org.fa7.spring.trabalho_fa7;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
