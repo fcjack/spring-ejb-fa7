@@ -24,6 +24,11 @@ public class EmployeeController {
     public List<Employee> list() {
         return employeeService.list();
     }
+    
+    @RequestMapping(value = "{id}")
+    public Employee findById(@PathVariable Long id) {
+    	return employeeService.findById(id);
+    }
 
     @RequestMapping(method = RequestMethod.POST)
     public void create(@RequestBody Employee employee) {
